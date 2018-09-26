@@ -41,5 +41,5 @@ Results:
 9. Reboot
 
 10. Enjoy your new macOS without ads! :)
-![App drawer](https://raw.githubusercontent.com/banzr/RemoveMojaveApps/master/screens/terminal-ouput.jpg)
+![App drawer](https://raw.githubusercontent.com/banzr/RemoveMojaveApps/master/screens/app-drawer.jpg)
 
