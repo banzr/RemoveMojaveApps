@@ -1,7 +1,7 @@
 # RemoveMojaveApps
 How to remove protected apps, such as News, Stocks, and Home from a Mojave macOS installation
 
-### Special thanks to @9define for suggesting this workaround! :) 
+### Special thanks to [@9define](https://github.com/9define) for suggesting this workaround! :) 
 
 ## About
 Have you upgraded to Majave on your mac and object to sponsored apps? Refuse to be pushed Apple's liberal News or to be shilled Apple's Home ecosystem of products? Hate the XNU kernel? Don't want to disable SIP just to nuke a few apps?
