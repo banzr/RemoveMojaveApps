@@ -18,7 +18,9 @@ Have you upgraded to Majave on your mac and object to sponsored apps? Refuse to 
 ## Steps
 1. Install/Upgrade to Mojave
 
-2. Reboot into recovery mode.
+2. Reboot into recovery mode. 
+	* Shutdown your mac.
+	* Hold `Command + R` and press power. Continue to hold the keyboard keys until the Apple logo and loading bar appears. 
 
 3. Select Disk Utility from the list of options
 ![Recovery mode splash screen](https://raw.githubusercontent.com/banzr/RemoveMojaveApps/master/screens/recovery-mode-opts.jpg)
